@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="_0">0</string>
+    <string name="avatar">avatar</string>
+    <string name="detail_user">Detail User</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="delete">Delete</string>
+    <string name="user">User</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorited">Favorited</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="appwidget_text">Github User</string>
+    <string name="add_widget">Add widget</string>
+</resources>
